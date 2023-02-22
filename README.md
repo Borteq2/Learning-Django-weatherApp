@@ -25,7 +25,7 @@ requests 2.28.2 Python HTTP for Humans.
 ```
 - `cd WeatherApp`
 - `poetry shell` - it will drop you in default Python mode for terminal, pretty good
-- `python manage.py runserver` (for Windows ofc, python3 if you have red eyes)
+- `python manage.py runserver` (for Windows ofc, `python3 manage.py runserver` if you have red eyes)
 - click to link in terminal, it will route you into localhost
 - use it with pleasure and wow-effect
 
