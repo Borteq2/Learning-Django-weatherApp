@@ -9,7 +9,7 @@ If you want to use only pip - project uses pure `Django` and `Requests` libs.
 #### For launch my way:
 - make sure you already have `poetry` on yout PC. If not - `pip install poetry` will add it to you, or use any another way to get poetry
 - clone project
-- at start dir (`Training-weatherApp`) launch in terminal: `poetry init`. Maybe it says something like .toml already there, it means this step already done by me for you. :)
+- at start dir (`Django-weatherApp`) launch in terminal: `poetry init`. Maybe it says something like .toml already there, it means this step already done by me for you. :)
 - `poetry install` (it may lag sometimes, dont worry, just wait)
 - to make sure all ok, launch `poetry show --tree`. Must return beautiful tree view for dependencies (with short descriptions, wow!)
 ```
